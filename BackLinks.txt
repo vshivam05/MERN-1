@@ -1,0 +1,3 @@
+MERN-1 Sprint website
+MERN-1 Deck Walkthrough videos doc
+MERN-2 Best Practices (Bonus session) deck
